@@ -8,9 +8,16 @@ Welcome to the **Mands IT Project Document**. Select a **Project** below to get 
 <div className="row">
   
   <div className="col col--6 margin-bottom--lg">
-    <a className="card padding--lg shadow--md" href="/docs/base-data" style={{height: '100%', textDecoration: 'none', color: 'inherit'}}>
+    <a className="card padding--lg shadow--md" href="/docs/pos-software" style={{height: '100%', textDecoration: 'none', color: 'inherit'}}>
       <h3>📦 Pos Software</h3>
       <p> Point of Sale (POS) Software Project Document.</p>
+    </a>
+  </div>
+
+  <div className="col col--6 margin-bottom--lg">
+    <a className="card padding--lg shadow--md" href="/docs/moslim-focas" style={{height: '100%', textDecoration: 'none', color: 'inherit'}}>
+      <h3>Moslim-Focas (Android App)</h3>
+      <p> Moslim Focal Android APP.</p>
     </a>
   </div>
 
@@ -21,40 +28,7 @@ Welcome to the **Mands IT Project Document**. Select a **Project** below to get 
     </a>
   </div>
 
-  <div className="col col--6 margin-bottom--lg">
-    <a className="card padding--lg shadow--md" href="category/sales--marketing" style={{height: '100%', textDecoration: 'none', color: 'inherit'}}>
-      <h3>💹 Sales & Marketing</h3>
-      <p>Comprehensive Sales Dashboard, Analytics, Pricing Plans, and Order Management.</p>
-    </a>
-  </div>
-
-  <div className="col col--6 margin-bottom--lg">
-    <a className="card padding--lg shadow--md" href="category/store-management" style={{height: '100%', textDecoration: 'none', color: 'inherit'}}>
-      <h3>🚚 Store Management</h3>
-      <p>Inventory control, stock management, warehousing, and material issuance.</p>
-    </a>
-  </div>
-
-  <div className="col col--6 margin-bottom--lg">
-    <a className="card padding--lg shadow--md" href="category/purchase" style={{height: '100%', textDecoration: 'none', color: 'inherit'}}>
-      <h3>🛒 Purchase</h3>
-      <p>Procurement processes, purchase orders, vendor management, and receiving.</p>
-    </a>
-  </div>
-
-  <div className="col col--6 margin-bottom--lg">
-    <a className="card padding--lg shadow--md" href="category/production" style={{height: '100%', textDecoration: 'none', color: 'inherit'}}>
-      <h3>📊 Production</h3>
-      <p>Manage production lines, schedules, work orders, and manufacturing processes.</p>
-    </a>
-  </div>
-
-  <div className="col col--6 margin-bottom--lg">
-    <a className="card padding--lg shadow--md" href="category/qa--qc" style={{height: '100%', textDecoration: 'none', color: 'inherit'}}>
-      <h3>🛡️ QA & QC</h3>
-      <p>Quality Assurance and Control protocols, inspections, and compliance tracking.</p>
-    </a>
-  </div>
+ 
 
   <div className="col col--6 margin-bottom--lg">
     <a className="card padding--lg shadow--md" href="category/task-management" style={{height: '100%', textDecoration: 'none', color: 'inherit'}}>
@@ -62,7 +36,35 @@ Welcome to the **Mands IT Project Document**. Select a **Project** below to get 
       <p>Assign tasks, track progress, manage projects, and collaborate with teams.</p>
     </a>
   </div>
-    <div className="col col--6 margin-bottom--lg">
+
+  <div className="col col--6 margin-bottom--lg">
+    <a className="card padding--lg shadow--md" href="/docs/transport-management" style={{height: '100%', textDecoration: 'none', color: 'inherit'}}>
+      <h3>Transport Management</h3>
+      <p>Transport operations, routes, scheduling, and fleet workflow documentation.</p>
+    </a>
+  </div>
+
+  <div className="col col--6 margin-bottom--lg">
+    <a className="card padding--lg shadow--md" href="/docs/tuition-management" style={{height: '100%', textDecoration: 'none', color: 'inherit'}}>
+      <h3>Tuition Management</h3>
+      <p>Tuition management workflows, student operations, and reporting documentation.</p>
+    </a>
+  </div>
+
+  <div className="col col--6 margin-bottom--lg">
+    <a className="card padding--lg shadow--md" href="/docs/bizcard-android-app" style={{height: '100%', textDecoration: 'none', color: 'inherit'}}>
+      <h3>Bizcard (Android App)</h3>
+      <p>Bizcard Android app features, setup notes, and usage documentation.</p>
+    </a>
+  </div>
+
+ <div className="col col--6 margin-bottom--lg">
+    <a className="card padding--lg shadow--md" href="category/qa--qc" style={{height: '100%', textDecoration: 'none', color: 'inherit'}}>
+      <h3>🛡️ QA & QC</h3>
+      <p>Quality Assurance and Control protocols, inspections, and compliance tracking.</p>
+    </a>
+  </div>
+  <div className="col col--6 margin-bottom--lg">
     <a className="card padding--lg shadow--md" href="category/resources" style={{height: '100%', textDecoration: 'none', color: 'inherit'}}>
       <h3>📋 Resources</h3>
       <p>Access setup guides, FAQs, and other helpful materials.</p>

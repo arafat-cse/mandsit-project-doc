@@ -1,0 +1,8 @@
+{
+    "label":  "Tuition Management",
+    "position":  3,
+    "link":  {
+                 "type":  "generated-index",
+                 "description":  "Tuition Management Web Documentation"
+             }
+}
